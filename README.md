@@ -1,6 +1,6 @@
-# ROS 2 Jazzy Installation on Linux Mint 22.1
+# ROS 2 Jazzy Installation on Ubuntu(Noble) 24.04
 
-This guide explains how to install **ROS 2 Jazzy Jalisco** on **Linux Mint 22.1** (based on Ubuntu 24.04).
+This guide explains how to install **ROS 2 Jazzy Jalisco** on **Ubuntu(Noble) 24.04**.
 
 ---
 
@@ -138,4 +138,4 @@ ros2 run joint_state_publisher joint_state_publisher --help
 
 ---
 
-✅ ROS 2 Jazzy is now installed and ready to use on Linux Mint 22.1!
+✅ ROS 2 Jazzy is now installed and ready to use on Ubuntu(Noble) 24.04!
