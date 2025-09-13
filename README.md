@@ -108,7 +108,8 @@ You should see the talker publishing and the listener receiving messages 🎉
 
 These packages are available via APT for ROS Jazzy:
 ```bash
-sudo apt install -y ros-jazzy-xacro ros-jazzy-joint-state-publisher
+sudo apt install ros-jazzy-xacro 
+sudo apt install ros-jazzy-joint-state-publisher
 ```
 
 You can also install other useful packages:
