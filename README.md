@@ -104,6 +104,26 @@ ros2 run demo_nodes_cpp listener
 
 You should see the talker publishing and the listener receiving messages 🎉
 
+## 7. Install xacro and joint_state_publisher
+
+These packages are available via APT for ROS Jazzy:
+```bash
+sudo apt install -y ros-jazzy-xacro ros-jazzy-joint-state-publisher
+```
+
+You can also install other useful packages:
+```bash
+sudo apt install -y ros-jazzy-joint-state-publisher-gui
+```
+
+## 8. Test the Installation
+
+To check if they were installed correctly:
+```bash
+ros2 run xacro xacro --help
+ros2 run joint_state_publisher joint_state_publisher --help
+```
+
 ---
 
 ## Notes
